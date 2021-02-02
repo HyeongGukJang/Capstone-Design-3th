@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name='Arudino_Bluetooth'
