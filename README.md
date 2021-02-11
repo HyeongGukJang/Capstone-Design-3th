@@ -4,6 +4,7 @@
 캡스톤디자인 경진대회 - 은상
 
 <img src = "https://user-images.githubusercontent.com/58000781/107633516-81557180-6cab-11eb-87e9-5aeae428bf19.jpg" width = "50%" height = "50%">
+<img src = "https://user-images.githubusercontent.com/58000781/107634379-c5954180-6cac-11eb-864e-22ad2836688c.jpg" wodth = "50%" height = "50%">
 
 ![금연유도 스마트 담배케이스](https://user-images.githubusercontent.com/58000781/107632194-83b6cc00-6ca9-11eb-8d2c-e3c06397417c.jpg)
 
